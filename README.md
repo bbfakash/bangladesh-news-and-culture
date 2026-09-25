@@ -6,7 +6,7 @@ Get the latest news on politics, economy, education, technology, sports, and ent
 BBN Banner
 
 🔴 Live Demo
-👉 https://bbn-news.vercel.app (তোমার লাইভ লিংক এখানে বসাবে)
+👉 bangladesh-news-and-culture (তোমার লাইভ লিংক এখানে বসাবে)
 
 ✨ Features
 ⚡ Real-time news updates from various Bangladeshi sources
